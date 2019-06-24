@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+	<Form>
+		<Form.Field>
+			<label>$1</label>
+			<input type='text' name='$2' id='$2' placeholder='$3' />
+		</Form.Field>
+		<Button type='submit' primary>Submit</Button>
+	</Form>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>sff</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.html, source.js</scope>
+</snippet>
