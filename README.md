@@ -1,7 +1,7 @@
 # my-snippets
 My favorite personalize snippets
 
-For defining simple form in semantic-ui-react
+For simple form in semantic-ui-react
 `sff` + <kbd>tab</kbd>
 ```html
 	<Form>
@@ -12,3 +12,10 @@ For defining simple form in semantic-ui-react
 		<Button type='submit' primary>Submit</Button>
 	</Form>
 ```
+For importing components in simple form
+`isff` + <kbd>tab</kbd>
+```javascript
+import { Button, Form } from 'semantic-ui-react'
+```
+
+
