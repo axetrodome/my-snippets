@@ -3,7 +3,7 @@ My favorite personalize snippets
 
 For defining simple form in semantic-ui-react
 `sff` + <kbd>tab</kbd>
-<html>
+```html
 	<Form>
 		<Form.Field>
 			<label>$1</label>
@@ -11,5 +11,4 @@ For defining simple form in semantic-ui-react
 		</Form.Field>
 		<Button type='submit' primary>Submit</Button>
 	</Form>
-</html>
-
+```
