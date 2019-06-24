@@ -17,5 +17,3 @@ For importing components in simple form
 ```javascript
 import { Button, Form } from 'semantic-ui-react'
 ```
-
-
