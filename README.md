@@ -7,7 +7,7 @@ For simple form in semantic-ui-react
 	<Form>
 		<Form.Field>
 			<label>$1</label>
-			<input type='text' name='$2' id='$2' placeholder='$3' />
+			<input type='text' name='' id='' placeholder='' />
 		</Form.Field>
 		<Button type='submit' primary>Submit</Button>
 	</Form>
