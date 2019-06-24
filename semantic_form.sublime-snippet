@@ -2,8 +2,8 @@
 	<content><![CDATA[
 	<Form>
 		<Form.Field>
-			<label>$1</label>
-			<input type='text' name='$2' id='$2' placeholder='$3' />
+			<label>${1:Username}</label>
+			<input type='text' name='${2:username}' id='${2:username}' placeholder='${3:axetrodome}' />
 		</Form.Field>
 		<Button type='submit' primary>Submit</Button>
 	</Form>
