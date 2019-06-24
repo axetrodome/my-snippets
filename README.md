@@ -1,6 +1,6 @@
 # my-snippets
 My favorite personalize snippets
-
+### React Semantic
 For simple form in semantic-ui-react
 `sff` + <kbd>tab</kbd>
 ```html
@@ -22,3 +22,15 @@ For empty import from semantic-ui-react
 ```javascript
 import { } from 'semantic-ui-react'
 ```
+### Native PHP
+`pf` + <kbd>tab</kbd>
+```php
+public function myFunction() 
+{
+	//
+	return;
+}
+```
+### Laravel
+
+### 12R Framework
