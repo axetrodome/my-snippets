@@ -22,6 +22,10 @@ For empty import from semantic-ui-react
 ```javascript
 import { } from 'semantic-ui-react'
 ```
+For import `imp` + <kbd>tab</kbd>
+```javascript
+import { } from ''
+```
 ### Native PHP
 `pf` + <kbd>tab</kbd>
 ```php
