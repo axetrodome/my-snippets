@@ -26,6 +26,20 @@ For import `imp` + <kbd>tab</kbd>
 ```javascript
 import { } from ''
 ```
+For class component `ccom` + <kbd>tab</kbd>
+```javascript
+import React, { Component } from 'react';
+
+class FileName extends Component {
+	render() {
+		return (
+			<div></div>
+		);
+	}
+}
+
+export default FileName
+```
 ### Native PHP
 `pf` + <kbd>tab</kbd>
 ```php
